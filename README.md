@@ -27,3 +27,5 @@ Atualmente estou buscando oportunidades na indústria para continuar aprendendo 
 <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"  width="40"  height="40"/>
 <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"  width="40"  height="40"/>
 </div>
+
+ ![Snake animation](https://github.com/thomazcm/thomazcm/blob/output/github-contribution-grid-snake.svg)
