@@ -14,7 +14,7 @@ Atualmente buscando oportunidades na indústria para continuar aprendendo e cont
 
 - [REST-API-Financeira](https://github.com/thomazcm/rest-api-financeira) - API REST desenvolvida para fornecer as funcionalidades do aplicativo web de controle de finanças pessoais.
 
-### 🖥️ Tecnologias e Ferramentas: 
+### 🖥️ Tecnologias e Ferramentas
 <div display:flex>
 <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  width="40"  height="40"/>
 <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"  width="40"  height="40"/>
