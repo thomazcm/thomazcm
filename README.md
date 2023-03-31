@@ -28,7 +28,11 @@ Atualmente estou buscando oportunidades na indústria para continuar aprendendo 
 <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"  width="40"  height="40"/>
 </div>
 
+### Cursos em andamento e concluídos
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" />
+
+- [Lista de cursos concluídos](https://cursos.alura.com.br/user/thomazcm/fullCertificate/584f64b23a28f06244f5e5a63bcb0a16)
 
 ![snake gif](https://github.com/thomazcm/thomazcm/blob/output/github-contribution-grid-snake.gif)
 
