@@ -34,10 +34,12 @@ Atualmente buscando oportunidades na indústria para continuar aprendendo e cont
 
 ☕ Tive meu primeiro contato com programação com Java no fim de 2019 e segui meus estudos com foco no back-end mas também  desenvolvendo um conhecimento amplo de DevOps e Front End.
  
-⌨ Desde então passei a gostar muito de utilizar sempre que possível recursos de programação para facilitar o máximo que possível meu dia a dia, como usar scripts de AHK para novas teclas de atalho e automatizar tarefas repetitivas. 
+⌨ Desde então passei a gostar muito de utilizar sempre que possível recursos de programação para facilitar o máximo que possível meu dia a dia, como usar scripts de [AHK](https://www.autohotkey.com/docs/v1/) para novas teclas de atalho e automatizar tarefas repetitivas. 
 
 🤖 Atualmente meu foco de aprendizado é em desenvolvimento android e consolidar meu conhecimento sobre padrões de projeto.
 
-##### [Lista de cursos concluídos na plataforma Alura](https://cursos.alura.com.br/user/thomazcm/fullCertificate/584f64b23a28f06244f5e5a63bcb0a16)
+<p align=center>
+<a href="https://cursos.alura.com.br/user/thomazcm/fullCertificate/584f64b23a28f06244f5e5a63bcb0a16">Lista de cursos concluídos na plataforma Alura</a>
+</p>
 
 ![snake gif](https://github.com/thomazcm/thomazcm/blob/output/github-contribution-grid-snake.gif)
