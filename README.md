@@ -43,3 +43,5 @@ Atualmente buscando oportunidades na indústria para continuar aprendendo e cont
 </p>
 
 ![snake gif](https://github.com/thomazcm/thomazcm/blob/output/github-contribution-grid-snake.gif)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thomazcm&hide=stars,contribs&show_icons=true&theme=transparent&custom_title=Thomaz's%20github%20Stats&line_height=30)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomazcm&layout=compact&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
