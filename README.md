@@ -14,6 +14,12 @@ Atualmente buscando oportunidades na indústria para continuar aprendendo e cont
 ](https://webapp-financeira.herokuapp.com/home)
 - [REST-API-Financeira](https://github.com/thomazcm/rest-api-financeira) - API REST desenvolvida para fornecer as funcionalidades do aplicativo web.
 
+<div style="display: flex; align-items: center;">
+  <a href="https://cursos.alura.com.br/vitrinedev/thomazcm"><img src="https://raw.githubusercontent.com/thomazcm/thomazcm/master/Resources/vitrine-dev.png" alt="imagem vitrine dev" width="129"/></a>
+  <p>Outros projetos e Formações</p>
+</div>
+
+
 ### 🖥️ Tecnologias e Ferramentas
 <div display:flex>
 <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  width="40"  height="40"/>
