@@ -1,4 +1,4 @@
-
+[
 
  <h2 align="left">Olá! 👋 Sou Thomaz Machado</h2>
 
@@ -45,3 +45,4 @@ Atualmente buscando oportunidades na indústria para continuar aprendendo e cont
 ![snake gif](https://github.com/thomazcm/thomazcm/blob/output/github-contribution-grid-snake.gif)
 
 
+](https://stackedit.io/app#tecnologias-utilizadas)
