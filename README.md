@@ -10,8 +10,8 @@ Atualmente buscando oportunidades na indústria para continuar aprendendo e cont
 
 
 ### 🔧 Meus projetos publicados
-- [Webapp-Financeira](https://github.com/thomazcm/webapp-financeira) - Aplicativo Web para controle de finanças pessoais acessível em https://webapp-financeira.herokuapp.com/
-
+- [Webapp-Financeira](https://github.com/thomazcm/webapp-financeira) - Aplicativo Web para controle de finanças pessoais acessível em [https://webapp-financeira.herokuapp.com/
+](https://webapp-financeira.herokuapp.com/home)
 - [REST-API-Financeira](https://github.com/thomazcm/rest-api-financeira) - API REST desenvolvida para fornecer as funcionalidades do aplicativo web.
 
 ### 🖥️ Tecnologias e Ferramentas
