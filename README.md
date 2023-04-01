@@ -39,7 +39,7 @@ Atualmente buscando oportunidades na indústria para continuar aprendendo e cont
 🤖 Atualmente meu foco de aprendizado é em desenvolvimento android e consolidar meu conhecimento sobre padrões de projeto.
 
 <p align=center>
-<a href="https://cursos.alura.com.br/user/thomazcm/fullCertificate/584f64b23a28f06244f5e5a63bcb0a16">Lista de cursos concluídos na plataforma Alura</a>
+<a href="https://cursos.alura.com.br/user/thomazcm/fullCertificate/584f64b23a28f06244f5e5a63bcb0a16">Outros cursos concluídos</a>
 </p>
 
 ![snake gif](https://github.com/thomazcm/thomazcm/blob/output/github-contribution-grid-snake.gif)
