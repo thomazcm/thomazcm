@@ -1,3 +1,4 @@
+
  <h2 align="left">Olá! 👋 Sou Thomaz Machado</h2>
 
 [![Gmail Badge](https://img.shields.io/badge/-thomazcm@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thomazcm@gmail.com)](mailto:thomazcm@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-Thomaz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/tgmarinho/)  [![Gmail Badge](https://img.shields.io/badge/-thomaz.cm-c14438?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/thomaz.cm/)](https://www.instagram.com/thomaz.cm/)
@@ -5,7 +6,6 @@
 Sou estudante de graduação no curso de Análise e Desenvolvimento de Sistemas em Belo Horizonte-MG, e apaixonado por programação. 
 
 Comecei meus estudos na Alura em 2020 e, após um ano, decidi ingressar no curso de graduação. Possuo habilidades em Java/Spring, desenvolvimento web, SQL e banco de dados relacional.
-
 Atualmente buscando oportunidades na indústria para continuar aprendendo e contribuindo para a área.
 
 
@@ -28,9 +28,14 @@ Atualmente buscando oportunidades na indústria para continuar aprendendo e cont
 <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"  width="40"  height="40"/>
 </div>
 
-### 📙 Cursos em andamento e concluídos
+### 📙 Estou aprendendo
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" />
+☕ Tive meu primeiro contato com programação com Java no fim de 2019 e segui meus estudos com foco no back-end mas também  desenvolvendo um conhecimento amplo de DevOps e Front End.
+
+
+
+🤖 Atualmente meu foco de aprendizado é em desenvolvimento android e consolidar meu conhecimento sobre padrões de projeto.
 
 - [Lista de cursos concluídos](https://cursos.alura.com.br/user/thomazcm/fullCertificate/584f64b23a28f06244f5e5a63bcb0a16)
 
