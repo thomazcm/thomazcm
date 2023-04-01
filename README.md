@@ -16,7 +16,7 @@ Atualmente buscando oportunidades na indústria para continuar aprendendo e cont
 
 <div style="display: flex; align-items: center;">
   <a href="https://cursos.alura.com.br/vitrinedev/thomazcm"><img src="https://raw.githubusercontent.com/thomazcm/thomazcm/master/Resources/vitrine-dev.png" alt="imagem vitrine dev" width="129"/></a>
-  <p>Outros projetos e Formações</p>
+ <a href="https://cursos.alura.com.br/vitrinedev/thomazcm"><p>Outros projetos e Formações</p></a>
 </div>
 
 
@@ -43,10 +43,6 @@ Atualmente buscando oportunidades na indústria para continuar aprendendo e cont
 ⌨ Desde então passei a gostar muito de utilizar sempre que possível recursos de programação para facilitar o máximo que possível meu dia a dia, como usar scripts de [AHK](https://www.autohotkey.com/docs/v1/) para novas teclas de atalho e automatizar tarefas repetitivas. 
 
 🤖 Atualmente meu foco de aprendizado é em desenvolvimento android e consolidar meu conhecimento sobre padrões de projeto.
-
-<p align=center>
-<a href="https://cursos.alura.com.br/user/thomazcm/fullCertificate/584f64b23a28f06244f5e5a63bcb0a16">Outros cursos concluídos</a>
-</p>
 
 ![snake gif](https://github.com/thomazcm/thomazcm/blob/output/github-contribution-grid-snake.gif)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thomazcm&hide=stars,contribs&show_icons=true&theme=transparent&custom_title=Thomaz's%20github%20Stats&line_height=30)](https://github.com/anuraghazra/github-readme-stats)
