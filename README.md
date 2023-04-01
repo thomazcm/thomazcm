@@ -6,6 +6,7 @@
 Sou estudante de graduação no curso de Análise e Desenvolvimento de Sistemas em Belo Horizonte-MG, e apaixonado por programação. 
 
 Comecei meus estudos na Alura em 2020 e, após um ano, decidi ingressar no curso de graduação. Possuo habilidades em Java/Spring, desenvolvimento web, SQL e banco de dados relacional.
+
 Atualmente buscando oportunidades na indústria para continuar aprendendo e contribuindo para a área.
 
 
