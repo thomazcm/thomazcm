@@ -1,6 +1,6 @@
  <h2 align="left">Olá! 👋 Sou Thomaz Machado</h2>
 
-[![Gmail Badge](https://img.shields.io/badge/-thomazcm@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thomazcm@gmail.com)](mailto:thomazcm@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-Thomaz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/tgmarinho/)  [![Gmail Badge](https://img.shields.io/badge/-thomaz.cm-c14438?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/thomaz.cm/)](https://www.instagram.com/thomaz.cm/)
+[![Gmail Badge](https://img.shields.io/badge/-thomazcm@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thomazcm@gmail.com)](mailto:thomazcm@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-Thomaz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thomazcm/)](https://www.linkedin.com/in/tgmarinho/)  [![Gmail Badge](https://img.shields.io/badge/-thomaz.cm-c14438?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/thomaz.cm/)](https://www.instagram.com/thomaz.cm/)
 
 Sou estudante de graduação no curso de Análise e Desenvolvimento de Sistemas em Belo Horizonte-MG, e apaixonado por programação. 
 
