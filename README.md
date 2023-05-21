@@ -33,10 +33,11 @@ Atualmente buscando oportunidades na indústria para continuar aprendendo e cont
 <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"  width="40"  height="40"/>
 <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"  width="40"  height="40"/>
 <img  src="https://github.com/thomazcm/thomazcm/blob/master/Resources/AHK%20main%20icon.svg"  width="40"  height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" />
 </div>
 
 ### 📙 Estou aprendendo
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40"/>
 
 ☕ Tive meu primeiro contato com programação com Java no fim de 2019 e segui meus estudos com foco no back-end mas também  desenvolvendo um conhecimento amplo de DevOps e Front End.
  
