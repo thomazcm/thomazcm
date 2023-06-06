@@ -4,9 +4,7 @@
 
 Sou estudante de graduação no curso de Análise e Desenvolvimento de Sistemas em Belo Horizonte-MG, e apaixonado por programação. 
 
-Comecei meus estudos na [Alura](https://www.alura.com.br/) em 2020 e, após um ano, decidi ingressar no curso de graduação. Possuo habilidades em Java/Spring, desenvolvimento web, SQL e banco de dados relacional.
-
-Atualmente buscando oportunidades na indústria para continuar aprendendo e contribuindo para a área.
+Comecei meus estudos na [Alura](https://www.alura.com.br/) em 2020 e, após um ano, decidi ingressar no curso de graduação.
 
 
 ### 🔧 Projetos concluídos
@@ -34,10 +32,10 @@ Atualmente buscando oportunidades na indústria para continuar aprendendo e cont
 <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"  width="40"  height="40"/>
 <img  src="https://github.com/thomazcm/thomazcm/blob/master/Resources/AHK%20main%20icon.svg"  width="40"  height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" />
 </div>
 
-### 📙 Estou aprendendo
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40"/>
 
 ☕ Tive meu primeiro contato com programação com Java no fim de 2019 e segui meus estudos com foco no back-end mas também  desenvolvendo um conhecimento amplo de DevOps e Front End.
  
