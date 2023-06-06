@@ -10,7 +10,7 @@ Atualmente buscando oportunidades na indústria para continuar aprendendo e cont
 
 
 ### 🔧 Projetos concluídos
-- [Webapp-Financeira](https://github.com/thomazcm/webapp-financeira) - Aplicativo Web para controle de finanças pessoais acessível em [financeira.thomazcm.com/
+- [Webapp-Financeira](https://github.com/thomazcm/webapp-financeira) - Aplicativo Web para controle de finanças pessoais acessível em [financeira.thomazcm.com
 ](https://financeira.thomazcm.com)
 - [REST-API-Financeira](https://github.com/thomazcm/rest-api-financeira) - API REST desenvolvida para fornecer as funcionalidades do aplicativo web.
 
