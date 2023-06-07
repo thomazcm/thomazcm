@@ -8,6 +8,7 @@ Comecei meus estudos na [Alura](https://www.alura.com.br/) em 2020 e, após um a
 
 
 ### 🔧 Projetos concluídos
+- [Plantae](https://github.com/thomazcm/webapp-financeira) - Aplicativo desenvolvido para gerar, administrar e validar ingressos para qualquer tipo de evento.
 - [Webapp-Financeira](https://github.com/thomazcm/webapp-financeira) - Aplicativo Web para controle de finanças pessoais acessível em [https://financeira.thomazcm.com/
 ](https://financeira.thomazcm.com/)
 - [REST-API-Financeira](https://github.com/thomazcm/rest-api-financeira) - API REST desenvolvida para fornecer as funcionalidades do aplicativo web.
