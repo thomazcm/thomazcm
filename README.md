@@ -2,7 +2,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-thomazcm@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thomazcm@gmail.com)](mailto:thomazcm@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-Thomaz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thomazcm/)](https://www.linkedin.com/in/thomazcm/)  [![Gmail Badge](https://img.shields.io/badge/-thomaz.cm-c14438?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/thomaz.cm/)](https://www.instagram.com/thomaz.cm/)
 
-Sou estudante de graduação no curso de Análise e Desenvolvimento de Sistemas em Belo Horizonte-MG, e apaixonado por programação. 
+Cursando graduação no curso de Análise e Desenvolvimento de Sistemas em Belo Horizonte-MG e apaixonado por programação.
 
 Comecei meus estudos na [Alura](https://www.alura.com.br/) em 2020 e, após um ano, decidi ingressar no curso de graduação.
 
@@ -38,11 +38,9 @@ Comecei meus estudos na [Alura](https://www.alura.com.br/) em 2020 e, após um a
 </div>
 
 
-☕ Tive meu primeiro contato com programação com Java no fim de 2019 e segui meus estudos com foco no back-end mas também  desenvolvendo um conhecimento amplo de DevOps e Front End.
+☕ Tive meu primeiro contato com programação com Java no fim de 2019 e segui meus estudos com foco em desenvolvimento back-end mas também desenvolvendo um conhecimento amplo de front End e infraestrutura.
  
-⌨ Desde então passei a gostar muito de utilizar sempre que possível recursos de programação para facilitar o máximo que possível meu dia a dia, como usar scripts de [AHK](https://www.autohotkey.com/docs/v1/) para novas teclas de atalho e automatizar tarefas repetitivas. 
-
-🤖 Atualmente meu foco de aprendizado é em desenvolvimento android e consolidar meu conhecimento sobre padrões de projeto.
+⌨ Desde então passei a gostar muito de utilizar sempre que possível recursos de programação para facilitar o máximo que possível meu dia a dia, como usar scripts de [AHK](https://www.autohotkey.com/docs/v1/) para novas teclas de atalho e automatizar tarefas repetitivas.
 
 ![snake gif](https://github.com/thomazcm/thomazcm/blob/output/github-contribution-grid-snake.gif)
 
