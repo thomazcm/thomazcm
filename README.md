@@ -42,5 +42,3 @@ Comecei meus estudos na [Alura](https://www.alura.com.br/) em 2020 e, após um a
  
 ⌨ Desde então passei a gostar muito de utilizar sempre que possível recursos de programação para facilitar o máximo que possível meu dia a dia, como usar scripts de [AHK](https://www.autohotkey.com/docs/v1/) para novas teclas de atalho e automatizar tarefas repetitivas.
 
-![snake gif](https://github.com/thomazcm/thomazcm/blob/output/github-contribution-grid-snake.gif)
-
